@@ -16,7 +16,11 @@
 
 # Visual 3 # 
 
-<img width="1000" alt="visual_powerbi" src="https://user-images.githubusercontent.com/7052988/185935308-b71a5c07-c1c1-4fcb-b59b-ceef880c7a69.png">
+https://app.powerbi.com/view?r=eyJrIjoiYzYzNjZkZjEtN2M5NC00N2Y2LTgzNGItMTFmZjhiMGUxOTQzIiwidCI6IjU1NjBlNDIwLTVmNzEtNDAwYy04YmJlLWU1MmZhZTcyZWI2YyJ9
+
+![Screenshot_10](https://user-images.githubusercontent.com/7052988/233187188-082fb225-d7f1-4f02-8bcf-9dffa94187cc.png)
+
+
 
 # Visual 4 # 
 
