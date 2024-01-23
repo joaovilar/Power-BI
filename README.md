@@ -30,7 +30,10 @@ https://app.powerbi.com/view?r=eyJrIjoiYzYzNjZkZjEtN2M5NC00N2Y2LTgzNGItMTFmZjhiM
 
 https://app.powerbi.com/view?r=eyJrIjoiN2E2NWJmOGItNGMxNS00NzhhLTgzNTItZGJiNWY0MTFkZWZhIiwidCI6IjU1NjBlNDIwLTVmNzEtNDAwYy04YmJlLWU1MmZhZTcyZWI2YyJ9
 
-![video_visual_4](https://github.com/joaovilar/Power-BI/assets/7052988/8ea44ddd-99ed-4579-930d-b28b84d6937e)
+![video 4](https://github.com/joaovilar/Power-BI/assets/7052988/5fb9b3fd-cc0d-43ae-9b91-94a2193b1ae8)
+
+
+
 
 
 
