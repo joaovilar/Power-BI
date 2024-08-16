@@ -11,7 +11,8 @@ O Power BI é uma ferramenta poderosa para análise e visualização de dados. A
 </br>
 
 # Visual 1 #
-![ModeloVisual1](https://user-images.githubusercontent.com/7052988/184497598-59d8c0db-6568-46d7-83aa-e11658de50fd.png)
+
+![visual 1](https://github.com/user-attachments/assets/705de412-b2e6-4e64-9fde-862b88af605c)
 
 
 # Visual 2 #
