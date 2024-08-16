@@ -1,11 +1,12 @@
 # Modelos Visuais
 
 
-**Visuais gráficos em Power BI utilizando medidas DAX 
+** Modelo de Portfólio de Projetos em Power BI utilizando medidas DAX 
 
-No Power BI, a DAX é usada principalmente na criação de medidas e colunas calculadas. Medidas são cálculos que agregam valores em uma tabela e colunas calculadas são aquelas que são criadas com base em uma fórmula DAX. Essas medidas e colunas calculadas podem ser usadas em visualizações, como gráficos e tabelas, para exibir informações resumidas ou detalhadas sobre os dados.
+Aqui, você algumas visualizações gráficas e análises de dados que utilizo em Power BI
 
-Em resumo, o Power BI e a linguagem DAX são ferramentas essenciais para análise de dados e visualização de informações. Combinados, eles permitem aos usuários explorar e entender seus dados de forma mais eficiente e eficaz, fornecendo insights valiosos para impulsionar o sucesso dos negócios.**
+O Power BI é uma ferramenta poderosa para análise e visualização de dados. A linguagem DAX (Data Analysis Expressions) é fundamental nesse processo, sendo usada para criar medidas e colunas calculadas.
+
 
 </br>
 
@@ -15,15 +16,14 @@ Em resumo, o Power BI e a linguagem DAX são ferramentas essenciais para anális
 
 # Visual 2 #
 
-![ModeloVisual2](https://user-images.githubusercontent.com/7052988/184497610-ca044001-42ef-4d8d-a2a1-fcc20c1e674b.png)
+![ModeloVisual2](https://user-images.githubusercontent.com/7052988/184497610-ca044001-42ef-4d8d-a2a1-fcc20c1e674b.png )
 
 
 # Visual 3 # 
 
-https://app.powerbi.com/view?r=eyJrIjoiYzYzNjZkZjEtN2M5NC00N2Y2LTgzNGItMTFmZjhiMGUxOTQzIiwidCI6IjU1NjBlNDIwLTVmNzEtNDAwYy04YmJlLWU1MmZhZTcyZWI2YyJ9
+https://app.powerbi.com/view?r=eyJrIjoiNjgyZDZkNWUtNDhmNy00ODNmLWFmYTgtZDBjMzBiMDEwMDk5IiwidCI6IjU1NjBlNDIwLTVmNzEtNDAwYy04YmJlLWU1MmZhZTcyZWI2YyJ9
 
-![Screenshot_10](https://user-images.githubusercontent.com/7052988/233187188-082fb225-d7f1-4f02-8bcf-9dffa94187cc.png)
-
+![p1](https://github.com/user-attachments/assets/e0df5eda-a15b-44c7-b351-9444d9b22b0d)
 
 
 # Visual 4 # 
