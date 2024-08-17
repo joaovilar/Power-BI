@@ -21,7 +21,8 @@ https://app.powerbi.com/view?r=eyJrIjoiOTdlYzY3ZjMtMzU2Mi00YzViLWFhODYtNmM0OGVhM
 
 ![visual people analytics](https://github.com/user-attachments/assets/dc323ba6-b449-4549-ac0d-47e8335c4890)
 
-![detalhamento](https://github.com/user-attachments/assets/9564c525-d615-4aba-8629-cf57136e32e9)
+![Detalhamento](https://github.com/user-attachments/assets/eb7c14fb-ba40-4386-b34a-29926a51cd79)
+
 
 
 ![modelagem](https://github.com/user-attachments/assets/42a50ad5-9a9b-4635-96a0-da40a22513cb)
