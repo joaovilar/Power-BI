@@ -17,7 +17,15 @@ O Power BI é uma ferramenta poderosa para análise e visualização de dados. A
 
 # Visual 2 #
 
-![ModeloVisual2](https://user-images.githubusercontent.com/7052988/184497610-ca044001-42ef-4d8d-a2a1-fcc20c1e674b.png )
+https://app.powerbi.com/view?r=eyJrIjoiOTdlYzY3ZjMtMzU2Mi00YzViLWFhODYtNmM0OGVhMjNlZDk1IiwidCI6IjU1NjBlNDIwLTVmNzEtNDAwYy04YmJlLWU1MmZhZTcyZWI2YyJ9
+
+![visual people analytics](https://github.com/user-attachments/assets/dc323ba6-b449-4549-ac0d-47e8335c4890)
+
+![detalhamento](https://github.com/user-attachments/assets/9564c525-d615-4aba-8629-cf57136e32e9)
+
+
+![modelagem](https://github.com/user-attachments/assets/42a50ad5-9a9b-4635-96a0-da40a22513cb)
+
 
 
 # Visual 3 # 
@@ -34,9 +42,9 @@ https://app.powerbi.com/view?r=eyJrIjoiN2E2NWJmOGItNGMxNS00NzhhLTgzNTItZGJiNWY0M
 <img src="https://github.com/joaovilar/Power-BI/assets/7052988/5fb9b3fd-cc0d-43ae-9b91-94a2193b1ae8" width="1500" height="600">
 
 
+# Visual 5 #
 
-
-
+![ModeloVisual2](https://user-images.githubusercontent.com/7052988/184497610-ca044001-42ef-4d8d-a2a1-fcc20c1e674b.png )
 
 
 
